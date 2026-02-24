@@ -1,0 +1,14 @@
+# Query: StudenHu
+# ContextLines: 1
+
+2 results - 2 files
+
+components/dashboard-nav.tsx:
+  31              <Link href="/dashboard" className="text-2xl font-bold text-blue-600">
+  32:               StudentHub
+  33              </Link>
+
+components/dashboard-sidebar.tsx:
+  36            </div>
+  37:           <span className="text-xl font-bold">StudentHub</span>
+  38          </div>
