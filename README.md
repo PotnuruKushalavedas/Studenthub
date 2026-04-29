@@ -7,6 +7,7 @@ A modern full-stack student dashboard that helps students manage academic activi
 👉 https://studenthub-omega.vercel.app
 
 🚀 Features
+
 🔐 Secure authentication with session management
 📊 Personalized dashboard (user-specific data)
 📁 Manage projects with status tracking
@@ -14,17 +15,17 @@ A modern full-stack student dashboard that helps students manage academic activi
 📅 Attendance monitoring with percentage insights
 📄 Export complete profile as a professional PDF resume
 🎨 Responsive UI with light/dark mode
+
 🛠️ Tech Stack
+
 Frontend: Next.js, React.js, TypeScript, Tailwind CSS
 Backend: Next.js API Routes
 Database: Supabase
 Authentication: NextAuth.js
 Deployment: Vercel
-📸 Preview
-
-Add screenshots or GIF of your dashboard here (very important for GitHub impression)
 
 Run Locally
+
 git clone https://github.com/your-username/studenthub.git
 cd studenthub
 npm install
