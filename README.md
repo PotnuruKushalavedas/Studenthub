@@ -1,6 +1,7 @@
 🎓 StudentHub
 
 A modern full-stack student dashboard that helps students manage academic activities, track progress, and build a professional profile — all in one place.
+
 ---
 🌐 Live Application
 
@@ -21,6 +22,7 @@ A modern full-stack student dashboard that helps students manage academic activi
 📄 Export complete profile as a professional PDF resume
 
 🎨 Responsive UI with light/dark mode
+
 ---
 🛠️ Tech Stack
 
@@ -33,6 +35,7 @@ Database: Supabase
 Authentication: NextAuth.js
 
 Deployment: Vercel
+
 ---
 Run Locally
 
@@ -43,6 +46,7 @@ cd studenthub
 npm install
 
 npm run dev
+
 ---
 🎯 Key Highlights
 
@@ -53,6 +57,7 @@ Ensures user-specific data isolation
 Implements secure API routes with authentication
 
 Designed with modern SaaS UI principles
+
 ---
 🔮 Future Improvements
 
@@ -63,6 +68,7 @@ Advanced analytics
 Notifications system
 
 Resume templates
+
 ---
 Note
 This project simulates a real-world student productivity platform and demonstrates full-stack development skills.
